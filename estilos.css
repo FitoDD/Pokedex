@@ -1,0 +1,27 @@
+body {
+	margin-top: 75px;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	background: lightseagreen;
+}
+
+title{
+	color: white;
+
+}
+table{
+	border-spacing: 75px;
+	margin-top: 50px;
+	width: 100%;
+	text-align: center;
+}
+
+td, tr {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	width: 33%;
+	height: 50%;
+	text-align: center;
+	background-color: aqua;
+	border-radius: 30%;
+}
